@@ -47,6 +47,8 @@ While gathering this information and creating models can help to identify people
 References
 
 DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines. DrivenData. Retrieved January 17, 2021, from https://www.drivendata.org/competitions/66/flu-shot-learning/data/
+
 Jin Huang, & Ling, C. X. (2005). Using AUC and accuracy in evaluating learning algorithms. IEEE Transactions on Knowledge and Data Engineering, 17(3), 299–310. https://doi.org/10.1109/tkde.2005.50
+
 ROC Curve in Machine Learning. (2020, July 26). Data Science | Machine Learning | Python | C++ | Coding | Programming | JavaScript. https://thecleverprogrammer.com/2020/07/26/roc-curve-in-machine-learning/#:~:text=ROC%20Curve%20in%20Machine%20Learning%20The%20Receiver%20Operating
 
